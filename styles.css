@@ -1,0 +1,86 @@
+
+*{
+padding: 2px;
+margin: 1px;
+font-family: tahoma;
+}
+
+.regform{
+border: solid 4px blue;
+justify-content: center;
+display: flex;
+border-radius: 7px;
+margin: 20px;
+padding: 10px;
+}
+
+.container{ 
+	
+}
+
+.theme{
+padding: 10px;
+padding-bottom: 0px;
+}
+
+.bioData{
+border: solid 3px gray;	
+margin: 2px;
+padding: 10px;
+border-radius: 5px;
+
+}
+
+input[type=text], input[type=tel], input[type=date], [type=email], input[type=password], select {
+width: 90%;
+display: flex;
+justify-content: center;
+padding: 10px;
+
+}
+
+
+
+.check{
+display: inline-block;
+
+}
+
+.registerBtn{
+justify-content:center;
+display:flex;
+background: #4287f5
+	
+}
+
+.registerNow{
+padding:2px;
+font-size: 18px;
+font-weight:20px;
+color: white;
+border: None;
+padding: 4px;
+background: #4287f5
+
+}
+
+.registerNow:hover{
+background: #4287f5;
+transition: .5s;
+font-size: 17px;
+font-weight:20px;
+padding: 4px;
+border: none;
+
+}
+
+.already{
+padding-left: 10px;	
+padding-bottom: 5px;
+font-family: tahoma;
+
+.personal{
+	
+}
+
+
